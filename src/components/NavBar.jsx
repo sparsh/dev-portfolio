@@ -9,7 +9,8 @@ import ThemeToggler from './ThemeToggler';
 const styles = {
   logoStyle: {
     width: 50,
-    height: 40,
+    height: 50,
+    borderRadius: 25,
   },
 };
 
@@ -66,11 +67,7 @@ const NavBar = () => {
               src={data?.logo?.source}
               className="d-inline-block align-top"
               alt="main logo"
-              style={
-                data?.logo?.height && data?.logo?.width
-                  ? { height: data?.logo?.height, width: data?.logo?.width }
-                  : styles.logoStyle
-              }
+              style={styles.logoStyle}
             />
           </Navbar.Brand>
         )}
