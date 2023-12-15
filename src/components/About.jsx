@@ -56,7 +56,7 @@ function About(props) {
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
+                    <img style={{ width:400, height:400, borderRadius: 200,}} src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>
               </Fade>

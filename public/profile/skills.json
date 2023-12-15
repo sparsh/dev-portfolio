@@ -1,63 +1,41 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
-            "title": "Languages & Databases",
+    "intro": "I bring eight years of software development expertise, specializing in React JS, React Native, Unit Testing, and Jest. As a Team Lead, I effectively manage projects, mentor teams, and ensure timely, high-quality product delivery. My adaptability to fast-paced environments, coupled with a passion for creating a positive impact, positions me as a leader ready to drive success in any dynamic setting.",
+    "skills": [{ 
+            "title": "Frameworks and Libraries",
             "items" : [
      
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
-                }
-        ]},
-        {
-            "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
-        },
-        {
-            "title" : "Tools & Platforms",
-            "items": [
+                    "icon": "images/skills/jest1.png",
+                    "title": "Jest"
+                },
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/owl.png",
+                    "title": "React Testing\n Library"
+                },
+                {
+                    "icon": "images/skills/react-native.png",
+                    "title": "React Native"
+                }
+        ]},
+        {
+            "title": "Tools",
+            "items" : [
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/figma2.png",
+                    "title": "Figma"
                 },
                 {
                     "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "title": "GIT"
                 }
             ]
-    }
+        }
 ]}

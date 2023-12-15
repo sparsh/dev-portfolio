@@ -57,7 +57,7 @@ function Skills(props) {
                         src={item.icon}
                         alt={item.title}
                       />
-                      <p>{item.title}</p>
+                      <ReactMarkdown children={item.title} />
                     </div>
                   ))}
                 </div>
