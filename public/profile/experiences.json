@@ -1,33 +1,38 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Senior Software Engineer",
+            "subtitle": "Cocotechoes Solution Pvt. Ltd.",
+            "workType": "Contract",
+            "workDescription": [
+                "Leading A Team Of Developers, to develop a real estate application for one of the largest company in Australia",
+                "Created Arcitecutre Diagrams",
+                "Followed Atomic Design Patterns",
+                "We Built Frontent application from scratch using **React Native**"
+            ],
+            "dateText": "06/2023 – Present"
+        },
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "Magic ed-tech",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Lead team of software developers and Interns",
+                "Conducted multiple sessions to make sure same practices are followed across the department",
+                "Trained Interns to become software developers of tomorrow",
+                "Worked On Multiple Projects based on **React JS** and **React Native**"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2020 – 06/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Software Consultant",
+            "subtitle": "Self Employed",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Worked with multiple technologies like **PHP, Node JS, Native Android, Angular, ionic, React Native, React JS**",
+                "Understood the client server architecture"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "06/2015 – 01/2020"
         }
     ]
 }

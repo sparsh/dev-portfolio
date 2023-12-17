@@ -42,7 +42,13 @@ function About(props) {
       .then((res) => setData(res))
       .catch((err) => err);
   }, []);
-
+  const getWidth = () => {
+    if(window.innerWidth - 50 > 400) {
+      return 400;
+    }
+    return window.innerWidth - 50
+  }
+  const width = getWidth();
   return (
     <>
       <Header title={header} />
@@ -56,7 +62,7 @@ function About(props) {
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img style={{ width:400, height:400, borderRadius: 200,}} src={data?.imageSource} alt="profile" />
+                    <img style={{ width, height:width, borderRadius: width/2,}} src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>
               </Fade>
