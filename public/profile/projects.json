@@ -1,6 +1,17 @@
 {
     "projects" : [
         {
+            "title": "Microservices for Authoring Tool",
+            "bodyText": "- Lead the Development team for development of microservice responsible for copying the TOC contents. \n - Lead the Team responsible for Learning Objective Creation of Content Authoring Tool. \n - Refreactored the Leagacy Code to make sure class components are removed and standalone component structure is followed",
+            "tags" : [
+                "React",
+                "Node JS",
+                "Refractor",
+                "Leadership",
+                "Education"
+            ]
+        },
+        {
             "title": "Real Estate Application",
             "bodyText": "- Lead the React Native team for one of the largest Real Estate company in Australia.\n - Developed Application from scratch, met tight deadlines, worked with tough clients.",
             "tags" : [
@@ -19,19 +30,9 @@
                 "Education"
             ]
         },
+
         {
-            "title": "Microservices for Authoring Tool",
-            "bodyText": "- Lead the Development team for development of microservice responsible for copying the TOC contents. \n - Lead the Team responsible for Learning Objective Creation of Content Authoring Tool. \n - Refreactored the Leagacy Code to make sure class components are removed and standalone component structure is followed",
-            "tags" : [
-                "React",
-                "Node JS",
-                "Refractor",
-                "Leadership",
-                "Education"
-            ]
-        },
-        {
-            "title": "Parent Connect React Native Application",
+            "title": "Parent Connect",
             "bodyText": "- Was part of React Native Development team for one of the largest Playscholl in India.\n - Developed modules where parent can track activity and get real time view of their kid.",
             "tags" : [
                 "React Native",
