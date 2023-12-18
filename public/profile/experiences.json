@@ -1,38 +1,50 @@
 {
     "experiences": [
-        {
-            "title": "Senior Software Engineer",
-            "subtitle": "Cocotechoes Solution Pvt. Ltd.",
-            "workType": "Contract",
-            "workDescription": [
-                "Leading A Team Of Developers, to develop a real estate application for one of the largest company in Australia",
-                "Created Arcitecutre Diagrams",
-                "Followed Atomic Design Patterns",
-                "We Built Frontent application from scratch using **React Native**"
-            ],
-            "dateText": "06/2023 – Present"
-        },
-        {
-            "title": "Senior Software Engineer",
-            "subtitle": "Magic ed-tech",
-            "workType": "Full-time",
-            "workDescription": [
-                "Lead team of software developers and Interns",
-                "Conducted multiple sessions to make sure same practices are followed across the department",
-                "Trained Interns to become software developers of tomorrow",
-                "Worked On Multiple Projects based on **React JS** and **React Native**"
-            ],
-            "dateText": "06/2020 – 06/2023"
-        },
-        {
-            "title": "Software Consultant",
-            "subtitle": "Self Employed",
-            "workType": "Freelance",
-            "workDescription": [
-                "Worked with multiple technologies like **PHP, Node JS, Native Android, Angular, ionic, React Native, React JS**",
-                "Understood the client server architecture"
-            ],
-            "dateText": "06/2015 – 01/2020"
-        }
+      {
+        "title": "Senior Software Engineer",
+        "subtitle": "Cocotechoes Solution Pvt. Ltd.",
+        "workType": "Contract",
+        "workDescription": [
+          "Led a highly skilled development team in the creation of a sophisticated real estate application for one of the largest companies in Australia.",
+          "Collaborated closely with stakeholders to gather and refine project requirements, ensuring alignment with business goals.",
+          "Developed comprehensive architecture diagrams to provide a clear visual representation of the project's structure and design.",
+          "Implemented Atomic Design Patterns to establish a modular and scalable architecture, enhancing maintainability and code reusability.",
+          "Successfully built the frontend application from scratch using React Native, demonstrating expertise in cross-platform mobile application development.",
+          "Conducted code reviews, ensuring adherence to coding standards and best practices, contributing to the overall quality of the codebase.",
+          "Provided technical leadership and guidance to the development team, fostering collaboration and knowledge sharing."
+        ],
+        "dateText": "06/2023 – Present"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "subtitle": "Magic ed-tech",
+        "workType": "Full-time",
+        "workDescription": [
+          "Led a multidisciplinary team of software developers and interns, overseeing the full software development lifecycle.",
+          "Conducted comprehensive training sessions to establish and maintain consistent coding practices, project standards, and workflows across the department.",
+          "Mentored interns, providing individualized support and guidance to accelerate their growth into proficient software developers.",
+          "Worked on multiple projects based on React JS and React Native, contributing to the successful delivery of high-quality software solutions.",
+          "Collaborated with cross-functional teams, including product managers and designers, to translate business requirements into technical specifications.",
+          "Provided technical expertise and leadership in resolving complex technical challenges, ensuring the timely delivery of projects.",
+          "Contributed to the continuous improvement of development processes, tools, and methodologies, fostering a culture of innovation and excellence."
+        ],
+        "dateText": "06/2020 – 06/2023"
+      },
+      {
+        "title": "Software Consultant",
+        "subtitle": "Self Employed",
+        "workType": "Freelance",
+        "workDescription": [
+          "Worked independently with a diverse set of technologies, including PHP, Node JS, Native Android, Angular, Ionic, React Native, and React JS.",
+          "Collaborated closely with clients to understand project requirements and goals, ensuring alignment with business objectives.",
+          "Designed and implemented custom software solutions, providing clients with tailored and scalable applications to meet their specific needs.",
+          "Conducted in-depth analyses of client-server architectures, optimizing performance and security to enhance overall system reliability.",
+          "Provided technical consultancy services, offering recommendations and solutions to clients for improving software systems and processes.",
+          "Maintained up-to-date knowledge of industry trends, emerging technologies, and best practices, ensuring the delivery of cutting-edge solutions.",
+          "Established and maintained strong client relationships, earning a reputation for delivering high-quality work and meeting project deadlines."
+        ],
+        "dateText": "06/2015 – 01/2020"
+      }
     ]
-}
+  }
+  

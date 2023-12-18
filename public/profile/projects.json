@@ -1,42 +1,24 @@
 {
-    "projects" : [
-        {
-            "title": "Real Estate Application",
-            "bodyText": "- Lead the React Native team for one of the largest Real Estate company in Australia.\n - Developed Application from scratch, met tight deadlines, worked with tough clients.",
-            "tags" : [
-                "React Native",
-                "Leadership",
-                "Real Estate"
-            ]
-        },
-        {
-            "title": "Content Authoring Tool",
-            "bodyText": "- Developed Elements In an Autoring Tool for one the largest publishing and education company. \n -  Provided Ability to enhance the Digital Content Creation via Track Manager and Comment Manager Tool.",
-            "tags" : [
-                "React",
-                "JavaScript",
-                "Leadership",
-                "Education"
-            ]
-        },
-        {
-            "title": "Microservices for Authoring Tool",
-            "bodyText": "- Lead the Development team for development of microservice responsible for copying the TOC contents. \n - Lead the Team responsible for Learning Objective Creation of Content Authoring Tool. \n - Refreactored the Leagacy Code to make sure class components are removed and standalone component structure is followed",
-            "tags" : [
-                "React",
-                "Node JS",
-                "Refractor",
-                "Leadership",
-                "Education"
-            ]
-        },
-        {
-            "title": "Parent Connect",
-            "bodyText": "- Was part of React Native Development team for one of the largest Playscholl in India.\n - Developed modules where parent can track activity and get real time view of their kid.",
-            "tags" : [
-                "React Native",
-                "Education"
-            ]
-        }
+    "projects": [
+      {
+        "title": "Microservices for Authoring Tool",
+        "bodyText": "Led a highly skilled development team in the creation of a specialized microservice.\n - This microservice played a crucial role in efficiently copying Table of Contents (TOC) contents.\n - Took charge of the team responsible for designing and implementing Learning Objectives within the Content Authoring Tool.\n - Initiated and successfully executed a comprehensive refactoring effort, ensuring the removal of legacy class components and the adoption of a modern standalone component structure.\n - Demonstrated strong leadership and technical acumen in achieving project goals.",
+        "tags": ["React", "Node JS", "Refactoring", "Leadership", "Education"]
+      },
+      {
+        "title": "Real Estate Application",
+        "bodyText": "Served as the lead for the React Native development team working on a high-impact Real Estate application for one of the largest companies in Australia.\n - Guided the team through the entire development lifecycle, from inception to delivery.\n - Successfully developed the application from scratch, meeting challenging deadlines and collaborating closely with demanding clients.\n - Demonstrated effective leadership, technical expertise, and project management skills throughout the project's lifecycle.",
+        "tags": ["React Native", "Leadership", "Real Estate"]
+      },
+      {
+        "title": "Content Authoring Tool",
+        "bodyText": "Contributed significantly to the development of an Authoring Tool for one of the largest publishing and education companies.\n - Played a key role in creating essential elements within the tool, enhancing the Digital Content Creation process.\n - Introduced innovative features, including the Track Manager and Comment Manager Tool, providing users with advanced capabilities for managing and optimizing their content creation workflows.\n - Demonstrated proficiency in React, JavaScript, leadership, and a deep understanding of educational technology.",
+        "tags": ["React", "JavaScript", "Leadership", "Education"]
+      },
+      {
+        "title": "Parent Connect",
+        "bodyText": "As an integral part of the React Native development team for one of the largest Playschools in India.\n - Contributed to the creation of the Parent Connect application.\n - Developed modules that empowered parents to actively track their children's activities and obtain real-time insights.\n - Showcased expertise in React Native development within an educational context, fostering effective communication and engagement between parents and the educational institution.",
+        "tags": ["React Native", "Education"]
+      }
     ]
-}
+  }
